@@ -88,7 +88,7 @@ Essa classe gerencia o login usando biometria (impressão digital ou reconhecime
 ## Como usar
 
 ```kotlin
-// injeta o LoginManager via koin
+// injetar o LoginManager via koin
 
 private val loginManager: LoginManager by inject()
 
