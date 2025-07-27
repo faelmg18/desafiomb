@@ -30,7 +30,7 @@ class MessageLocalDataSourceImpl(private val gson: Gson, private val cacheProvid
     }
 }
 
-private inline fun <reified T> String.fromJsonToList(): List<T> {
+internal inline fun <reified T> String.fromJsonToList(): List<T> {
     return try {
         val type = object : TypeToken<List<T>>() {}.type
         Gson().fromJson(this, type)

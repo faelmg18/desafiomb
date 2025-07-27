@@ -52,6 +52,11 @@ dependencies {
     implementation(project(":core"))
     implementation(project(":shared"))
 
+    testImplementation(libs.mockk.mockk)
+    testImplementation(libs.kotlin.test)
+    testImplementation(libs.kotlinx.coroutines.test)
+    testImplementation (libs.androidx.core.testing)
+
     testImplementation(libs.junit)
     androidTestImplementation(libs.androidx.junit)
     androidTestImplementation(libs.androidx.espresso.core)

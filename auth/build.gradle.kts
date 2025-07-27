@@ -44,6 +44,9 @@ dependencies {
 
     implementation(project(":core"))
 
+    testImplementation(libs.mockk.mockk)
+    testImplementation(libs.kotlin.test)
+
     testImplementation(libs.junit)
     androidTestImplementation(libs.androidx.junit)
     androidTestImplementation(libs.androidx.espresso.core)
