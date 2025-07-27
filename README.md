@@ -146,6 +146,8 @@ https://github.com/user-attachments/assets/a0940ee8-c1ee-46d0-b659-54acb580569a
 ## Authors
 
 - [@Rafael Henrique](https://github.com/faelmg18/)
+- [Meu Canal no Youtube](https://www.youtube.com/@RafaelDevAndroid)
+- [Minha pagina no Medium](https://medium.com/@faelmg18android)
 
 
 ## Licenças
