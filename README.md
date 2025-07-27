@@ -2,6 +2,7 @@
 # Desafio Mercantil do Brasil
 
 Esse projeto tem como objetivo mostrar a arquitetura criada para o desafio pedido pelo Mercantil do Brasil.
+
 Obs: Alguns commits estão com nome de Ahttpe pois fiz no perfil do meu mac onde tenho meu cnpj com esse nome.
 
 ## 🎯 Objetivo
