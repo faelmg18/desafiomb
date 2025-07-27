@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="find_message">Buscar Mensagens</string>
+    <string name="message_error">Error ao buscar mensagem</string>
+    <string name="select_date_or_hour">Selecione a data e/ou hora</string>
+    <string name="ok">OK</string>
+    <string name="cancel">Cancelar</string>
+    <string name="error_picker">Pelo menos um dos componentes (DatePicker ou TimePicker) deve ser exibido.</string>
+    <string name="goto_pop_over">Ir para o PopOver</string>
+    <string name="select_option">Escolha uma opção</string>
+    <string name="go_to_dvd_view">Ir apra o Dvd View</string>
+    <string name="date_time_selected">Data e Hora Selecionada</string>
+    <string name="open_date">Abrir o date</string>
+    <string name="open_time">Abrir timer</string>
+    <string name="open_date_time">Abrir data e hora</string>
+    <string name="name">Nome: %1$s</string>
+    <string name="user_id">ID: %1$s</string>
+    <string name="user_data">Dados do usuário logado</string>
+    <string name="goto_user_data">Ir para dados do usuario</string>
+    <string name="use_real_api">Usando API Real?</string>
+    <string name="not">Não</string>
+    <string name="yes">Sim</string>
+    <string name="request_sucess">Busca realizada com sucesso!</string>
+    <string name="logout">Deslogar</string>
+    <string name="select_date">Selecione uma data</string>
+    <string name="select_hour">Selecione a hora</string>
+    <string name="date_hour_formatted">%1$s - %2$s</string>
+</resources>

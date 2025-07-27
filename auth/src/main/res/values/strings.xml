@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="error_on_autheticate">Erro: %1$s</string>
+    <string name="authentication_failed">Autenticação falhou. Tente novamente.</string>
+    <string name="login_with_biometrics">Login com biometria</string>
+    <string name="use_your_fingerprint_or_face_to_enter">Use sua digital ou rosto para entrar</string>
+    <string name="cancel">Cancelar</string>
+</resources>

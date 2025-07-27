@@ -1,0 +1,10 @@
+<!-- res/drawable/login_button_background.xml -->
+<ripple xmlns:android="http://schemas.android.com/apk/res/android"
+    android:color="@color/login_pressed_button"> <!-- cor do efeito ripple -->
+    <item>
+        <shape android:shape="rectangle">
+            <solid android:color="@color/login_button" />
+            <corners android:radius="8dp" />
+        </shape>
+    </item>
+</ripple>

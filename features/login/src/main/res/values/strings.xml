@@ -1,0 +1,6 @@
+<resources>
+    <string name="title_activity_login">LoginActivity</string>
+    <string name="action_sign_in">Autenticar</string>
+    <string name="user_auth_error">Error ao autenticar usuário</string>
+    <string name="user_auth_success">Autenticado</string>
+</resources>
